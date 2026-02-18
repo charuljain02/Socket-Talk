@@ -6,7 +6,7 @@ A **real-time chat application** built with **Node.js**, **Express**, and **Sock
 
 ## **Demo / Screenshot**
 
-![Chat Screenshot](public/talk.png)
+![Chat Screenshot](/talk.png)
 
 > This screenshot shows the main chat interface of the app.
 
